@@ -28,7 +28,7 @@ int main()
         }
     }
     printf("The largest is:%d \n",arr[0]);
-    printf("The smallest is:%d ",arr[n]);
+    printf("The smallest is:%d ",arr[n-1]);
 
    
     return 0;
